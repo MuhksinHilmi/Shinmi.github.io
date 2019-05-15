@@ -1,0 +1,59 @@
+# Site
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Muhksin Fatullah Hilmi
+title: Software Engineer
+email: muhksin.hilmi@gmail.com
+# website: www.github.com/sproogen/resume-theme
+
+# Social links
+# twitter_username: facespics
+github_username:  Shinmi
+# dribbble_username: jekyll
+
+# flickr_username: jekyll
+ 
+linkedin_username: muhksin-hilmi
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+  I am a professional, experienced, and multi-talented developer and I have been involved in various kind of projects from both technical and business point of views. Currently enjoying my time exploring iOS development and improving my soft skills (leadership, decision making, critical thinking, public speaking, communication, presentation skills) in Binar Academy. I am open for challenging opportunities in dynamic working environment. Also interested in contributing for projects with social impacts.
+
+  I am most skilled in: <mark>Swift</mark>, <mark>Objective C</mark>, <mark>Java</mark>, <mark>Postgresql</mark>, <mark>Ruby on Rails</mark> and some other frameworks.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Travelling
+   - Gaming
+   - Photography
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

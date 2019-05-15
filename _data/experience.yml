@@ -1,0 +1,24 @@
+- company: Binar Academy
+  link: https://binar.co.id
+  job_title: Lead Academy Binar
+  dates: Oct 2018 - Present
+  description: | # this will include new lines to allow paragraphs
+    In charge of the first ever Binar Plus. Lead academy team to make sure academy operational goes well. Developing and improving academy system. Formulate academy curriculum with team.
+- company: Binar Academy
+  link: https://binar.co.id
+  job_title: Master iOS
+  dates: March 2017 - September 2018
+  description: | # this will include new lines to allow paragraphs
+    Develop platform for academy activities to be used by users and students. Leading internal iOS team to conduct research about iOS technology. Leading and directing internal & external mentor to achieve iOS training goals. Concepting curriculum for Binar Academy iOS training from basic level to advance level.  
+- company: Go-Jek
+  link: https://www.go-jek.com/
+  job_title: Product Engineer
+  dates: September 2015 - Februari 2017
+  description: | # this will include new lines to allow paragraphs
+    Develop existing mobile app to improve the architecture and maintainability. Implement required tools and features, suggest options for tools and features for better user experience. Collaborate with other team members to plan, design, and develop app.
+- company: Xeranta 
+  link: https://xeranta.com/
+  job_title: Mobile developer
+  dates: September 2012 - September 2015
+  description: | # this will include new lines to allow paragraphs
+    Develop Mobile android, iOS, & also Blackberry. Research new technology on mobile.
